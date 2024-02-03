@@ -16,3 +16,5 @@ Designing the div for entries.
 (Making the Users able to send Coins on the Market automatically.)
 Making the Marketplace encrypt the Shipping Address automatically.
 
+(required is bitcoin-core below 0.17.0, as the used "account"-feature has been removed.)
+
