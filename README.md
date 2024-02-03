@@ -8,7 +8,7 @@ You have to install BitcoinCore and get the Blockchain-Data for making the Marke
 Then you Setup your bitcoin.conf with an RPC-User and RPC-Password, for making the Script work.
 The Data will be configured in the index.php
 
-The Vendor has to click Check Orders, so the Script will check if there is enough BTC sent to his RCV-Address, so it will be marked as Payed.
+The Vendor has to click Check Orders, so the Script will check if there is enough BTC sent to his RCV-Address, so it will be marked as Paid.
 
 What needs to be done:
 Configuring the Vote-Ability for Users and Vendors for Products
