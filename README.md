@@ -1,4 +1,4 @@
-#Bitcoin Simple Marketplace Script
+Bitcoin Simple Marketplace Script
 ---------------------------------------
 
 This Script will make you able to host a DarkNet Marketplace with simple Functions.
@@ -16,5 +16,6 @@ Designing the div for entries.
 (Making the Users able to send Coins on the Market automatically.)
 Making the Marketplace encrypt the Shipping Address automatically.
 
-(required is bitcoin-core below 0.17.0, as the used "account"-feature has been removed.)
+(required is bitcoin-core below 0.17.0, as the used "account"-feature has been removed in Bitcoin-Core lately.)
 
+This Script will be updated in the future. (Reasons: bored.)
